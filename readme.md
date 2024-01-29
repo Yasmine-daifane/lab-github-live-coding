@@ -42,4 +42,4 @@ gh pr create --base main --head feature-branch --title "Your pull request title"
 
 ```
 ## Author
-- yasmine daifane
+- yasmine
