@@ -1,4 +1,4 @@
-# installation github cli
+# installation github cli yasmine
 
 - visiter
 - https://cli.github.com/
@@ -41,3 +41,5 @@ gh pr create --base main --head feature-branch --title "Your pull request title"
 
 
 ```
+## Author
+- yasmine
